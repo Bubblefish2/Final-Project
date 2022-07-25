@@ -8,3 +8,4 @@ To Do List
 - [ ] Simple colourpicker for brush
 - [ ] Exit button
 - [ ] Add a lineart template (image) for painting
+- [ ] 12 buttons
