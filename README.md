@@ -2,7 +2,7 @@
 Final Project
 
 To Do List
-- [x] Line drawing tool
+- [x] Line drawing tool (Pen)
 - [x] Circle Stamping Tool
 - [ ] Eraser (ie. circle stamping tool, fill with background (colour), removed stroke()
 - [X] Simple colourpicker for brush
@@ -12,4 +12,7 @@ To Do List
 - [ ] 12 different functions
 - [X] Instructions tab
   - [X] make Notes hide as default and open up after clicking it
-  - [ ] allow Notes to close
+  - [X] allow Notes to close
+- [x] Hover function for buttons
+- [ ] Change pen size
+- [ ] Change stamp size
