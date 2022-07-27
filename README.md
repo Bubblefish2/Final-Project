@@ -5,7 +5,7 @@ To Do List
 - [x] Line drawing tool (Pen)
 - [x] Circle Stamping Tool
 - [x] Eraser (ie. circle stamping tool, fill with background (colour), removed stroke()
-  - [x] make Eraser thicker than brush
+  - [x] ~~make Eraser thicker than brush~~ Eraser matches current chosen brush settings
   - [x] make Eraser colour match drawing surface colour
 - [x] Simple colourpicker for brush
 - [x] Exit button
