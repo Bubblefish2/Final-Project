@@ -10,8 +10,7 @@ To Do List
 - [x] Simple colourpicker for brush
 - [x] Exit button
 - [ ] Add a lineart template (image) for painting
-- [ ] ~~12 buttons~~
-- [ ] 12 different functions
+- [ ] 12 buttons (different functions)
 - [x] Instructions tab
   - [x] make Notes hide as default and open up after clicking it
   - [x] allow Notes to close
