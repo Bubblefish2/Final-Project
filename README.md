@@ -6,6 +6,7 @@ To Do List
 - [x] Circle Stamping Tool
 - [x] Eraser (ie. circle stamping tool, fill with background (colour), removed stroke()
   - [x] make Eraser thicker than brush
+  - [x] make Eraser colour match drawing surface colour
 - [x] Simple colourpicker for brush
 - [x] Exit button
 - [ ] Add a lineart template (image) for painting
@@ -19,3 +20,4 @@ To Do List
 - [ ] Change stamp size
 - [ ] Change paper colour
 - [ ] Straight line tool (horizontal and vertical)
+- [ ] Rectangle Stamping Tool
