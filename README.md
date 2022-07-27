@@ -17,7 +17,7 @@ To Do List
   - [x] allow Notes to close
 - [x] Hover function for buttons
 - [x] Change pen size
-- [ ] Change stamp size
+- [x] Change stamp size
 - [ ] Change paper colour
 - [ ] Straight line tool (horizontal and vertical)
-- [ ] Rectangle Stamping Tool
+- [x] Rectangle Stamping Tool
