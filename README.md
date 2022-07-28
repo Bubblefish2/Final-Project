@@ -17,6 +17,6 @@ To Do List
 - [x] Hover function for buttons
 - [x] Change pen size
 - [x] Change stamp size
-- [ ] Change paper colour
+- [x] Change paper colour
 - [ ] Straight line tool (horizontal and vertical)
 - [x] Rectangle Stamping Tool
