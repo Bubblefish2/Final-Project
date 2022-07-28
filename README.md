@@ -21,3 +21,5 @@ To Do List
 - [ ] ~~Straight line tool (horizontal and vertical)~~
 - [x] Rectangle Stamping Tool
 - [x] Labels
+- [x] Add canvas size/orientation checker
+- [x] Add image ratio adjuster
