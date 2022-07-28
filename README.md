@@ -10,7 +10,7 @@ To Do List
 - [x] Simple colourpicker for brush
 - [x] Exit button
 - [x] Add a lineart template (image) for painting
-- [ ] 12 buttons (different functions)
+- [x] 12 buttons (different functions)
 - [x] Instructions tab
   - [x] make Notes hide as default and open up after clicking it
   - [x] allow Notes to close
@@ -18,5 +18,6 @@ To Do List
 - [x] Change pen size
 - [x] Change stamp size
 - [x] Change paper colour
-- [ ] Straight line tool (horizontal and vertical)
+- [ ] ~~Straight line tool (horizontal and vertical)~~
 - [x] Rectangle Stamping Tool
+- [x] Labels
