@@ -9,7 +9,7 @@ To Do List
   - [x] make Eraser colour match drawing surface colour
 - [x] Simple colourpicker for brush
 - [x] Exit button
-- [ ] Add a lineart template (image) for painting
+- [x] Add a lineart template (image) for painting
 - [ ] 12 buttons (different functions)
 - [x] Instructions tab
   - [x] make Notes hide as default and open up after clicking it
