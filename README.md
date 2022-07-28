@@ -1,5 +1,5 @@
 # Final Project
-Final Project
+## Please check latest version (v.2.0)
 
 To Do List
 - [x] Line drawing tool (Pen)
